@@ -1,0 +1,25 @@
+Package: EcoTherm
+Type: Package
+Title: Optimizing Thermal Efficiency and Reducing Environmental Impact
+Version: 0.0.0.9000
+Authors@R: 
+    person("DONALD", "FOGANG", email = "donaldfogang@gmail.com", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: EcoTherm is a comprehensive R package designed to optimize 
+  thermal processes in energy production while minimizing environmental impact. 
+  It provides a suite of functions for calculating enthalpy changes, 
+  visualizing data trends, analyzing efficiency, forecasting profits, 
+  and recommending emission reduction strategies. 
+  This package aims to support thermal power plants in enhancing their operational efficiency and sustainability.
+License: GPL-3
+Imports: ggplot2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-11-09 14:59:14 UTC; YOHAN
+Author: DONALD FOGANG [aut, cre] (YOUR-ORCID-ID)
+Maintainer: DONALD FOGANG <donaldfogang@gmail.com>
